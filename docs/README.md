@@ -16,5 +16,7 @@ sidebar: auto
 
 
 ::: slot footer
-MPL2.0 Licensed | Copyright © 2024-present <br> <img src="/assets/ba.png" style="width:20px;height:20px;position:relative;top:3px;"></img>   [皖公网安备34019202002332](https://beian.mps.gov.cn/#/query/webSearch?code=34019202002332) [皖ICP备2024039845号](https://beian.miit.gov.cn/) 
+MPL2.0 Licensed | Copyright © 2024-present <br> <img src="/assets/ba.png" style="width:20px;height:20px;position:relative;top:3px;"></img>   [皖公网安备34019202002332](https://beian.mps.gov.cn/#/query/webSearch?code=34019202002332) 
+
+[皖ICP备2024039845号](https://beian.miit.gov.cn/) 
 :::
