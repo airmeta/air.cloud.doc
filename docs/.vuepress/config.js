@@ -47,14 +47,22 @@ module.exports = {
                     ]
                 },
                 {
+                    title: 'Air.Cloud.GateWay',
+                    collapsable: false,
+                    children: [
+                        '/guide/air-cloud-core/gateway/remarks.md',
+                        '/guide/air-cloud-core/gateway/gateway.md',
+                        '/guide/air-cloud-core/gateway/auth.md'
+                    ]
+                },
+                {
                     title: '中间件',
                     collapsable: false,
                     children: [
                         '/guide/middleware/consul.md',
                         '/guide/middleware/kafka.md'
                     ]
-                },
-               
+                }
             ],
             '/':[''], 
         }

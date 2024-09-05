@@ -24,6 +24,8 @@
 
 根据此特性,你可以配置N个不同环境的配置文件
 
+
+
 例如:
 ``` json
 {
@@ -33,6 +35,8 @@
 ``` 
 
 这将会分别加载appsetting.Test.json或者appsettings.Production.json
+
+
 
 #### 内置的环境
 
